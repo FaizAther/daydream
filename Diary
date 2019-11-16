@@ -6,7 +6,7 @@ Consciousness, Computers and The Chinese Room
 		 |		while ( !tired(Surl) && !tired(ChineseGuy) ):
 		 |			--Chinese guy looks at German letters in book
 	 O     <-|<-      O		--Chinese guy writes Chinese letters on chit
-	/|\->__  _  ___<-/|\		--Chinese guy passes chit through slit
+	/|\->__  _  ___->/|\		--Chinese guy passes chit through slit
 	/ \|G-C| | |C-G| / \		
 					--Surl looks in book for response in German
 	Chinese		Surl		--Surl writes reponse
