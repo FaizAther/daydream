@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=hCVdCS0t46I
+Consciousness, Computers and The Chinese Room
+		 |		
+		 |		while ( !tired(Surl) && !tired(ChineseGuy) ):
+	 O       |	 O	-Surl is in a room.
+	/|\ ->	 _  ___	/|\	-Chinese guy is in the other room.
+	/ \	 |  |B| / \
+				--Chinese guy passes chit with Chinese letters
+	Chinese		Surl	--Surl looks in book for response
+	Guy			
+				--Surl writes reponse
+				--Surl passes response to Chinese guy
+				______________________________________________
