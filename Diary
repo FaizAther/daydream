@@ -3,13 +3,17 @@ Consciousness, Computers and The Chinese Room
 		 |		
 		 |		-English guy, Surl is in a room.
 		 |		-Chinese guy is in the other room.
-		 		-"Both dont know German"
+		 		//-"Both dont know German or Italian"
+
+		 		-There is a chit with German on it. 
+
 		 |		while ( !tired(Surl) && !tired(ChineseGuy) ):
-		 |			--Chinese guy looks at German letters in book
-	 O     <-|<-      O		--Chinese guy writes German letters on chit
+		 |			--Chinese guy looks at German letters on chit
+		 		        --Chinese guy looks for response in Italian
+	 O     <-|<-      O		--Chinese guy writes Italian letters on chit
 	/|\->__  _  ___->/|\		--Chinese guy passes chit through slit
-	/ \|G-C| | |C-G| / \		
-					--Surl looks in book for response in German
+	/ \|G-I| | |I-G| / \		
+					--Surl looks in book for response in German of Italian letters
 	Chinese		Surl		--Surl writes reponse in German
 	Guy				--Surl passes response to Chinese guy
 				______________________________________________
