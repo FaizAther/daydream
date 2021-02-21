@@ -11,3 +11,8 @@
   + both the python and c code loose equality between the constant and optimized recurisve fib functions at n==72.
   
   + this signifies that they "may" be using the same api for calculation of the sqrt function.
+
+
+## Sites
+
+  + https://godbolt.org/
