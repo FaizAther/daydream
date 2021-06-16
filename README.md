@@ -16,3 +16,7 @@
 ## Sites
 
   + https://godbolt.org/
+
+  + https://vitalik.ca/general/2019/05/12/fft.html
+
+  + https://vitalik.ca/general/2019/04/01/cantor.html
