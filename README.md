@@ -12,6 +12,8 @@
   
   + this signifies that they "may" be using the same api for calculation of the sqrt function.
 
+  + cat ~/.ssh/id_ed25519.pub| ssh -p 2222 osc@127.0.0.1 'cat >> /home/osc/.ssh/authorized_keys'
+
 
 ## Sites
 
